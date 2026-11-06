@@ -1,0 +1,21 @@
+DOKUMENTASI PENGGUNAAN ARTIFICIAL INTELLIGENCE (AI)
+
+Mata Kuliah: Komputasi Numerik
+Topik: Sistem Persamaan Linear 3 Variabel
+Platform AI: ChatGPT
+
+1. PROMPT PENYUSUNAN ALGORITMA
+Bantu saya membuat algoritma penyelesaian Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss dan Substitusi Balik. Susun algoritma secara sistematis mulai dari input koefisien, pembentukan matriks augmented, proses eliminasi, substitusi balik, hingga menampilkan hasil.
+2. PROMPT PEMBUATAN KODE PYTHON
+Buatkan program Python untuk menyelesaikan Sistem Persamaan Linear tiga variabel menggunakan metode Eliminasi Gauss dan Substitusi Balik. Program harus disusun dalam beberapa cell Google Colab agar dapat dijalankan secara bertahap.
+3. PROMPT PENJELASAN KODE
+Berikan penjelasan detail setiap cell dan setiap bagian kode Python yang digunakan dalam program penyelesaian SPL tiga variabel. Gunakan bahasa Indonesia yang sederhana dan mudah dipahami oleh mahasiswa pemula.
+4. PROMPT PENGUJIAN PROGRAM
+Bantu periksa hasil program Python penyelesaian SPL tiga variabel. Tampilkan nilai x, y, dan z serta lakukan pemeriksaan kembali dengan memasukkan hasil perhitungan ke dalam persamaan awal.
+5. PROMPT DOKUMENTASI GITHUB
+Bantu susun dokumentasi algoritma, kode Python, dan penjelasan program agar tersimpan secara terstruktur dalam repository GitHub bernama Komputasi-Numerik.
+6. PROMPT PENGEMBANGAN TUGAS
+Bimbing saya menyelesaikan tugas Komputasi Numerik secara bertahap, mulai dari penyusunan algoritma, implementasi Python di Google Colab, penjelasan setiap cell, hingga dokumentasi di GitHub.
+KESIMPULAN
+Artificial Intelligence digunakan sebagai alat bantu dalam penyusunan algoritma, pengembangan kode Python, penjelasan program, dan dokumentasi. Seluruh hasil program perlu diperiksa dan dipahami kembali sebelum dikumpulkan.
+
