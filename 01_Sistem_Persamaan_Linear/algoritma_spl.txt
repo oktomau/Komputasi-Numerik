@@ -1,0 +1,9 @@
+Mulai
+Masukkan tiga persamaan linear yang terdiiri dari variabel x, y,dan z.
+Pisahkan koefisien setiap variabel dan konstanta ke dalam matriks augmented berukuran 3 × 4.
+Periksa elemen pivot pada setiap kolom. Jika diperlukan, tukar baris agar pivot tidak bernilai nol.
+Lakukan eliminasi Gauss untuk mengubah matriks menjadi bentuk segitiga atas.
+Periksa apakah sistem memiliki solusi yang dapat ditentukan.
+Hitung nilai variabel menggunakan substitusi balik, dimulai dari z, kemudian y, dan terakhir x.
+Tampilkan hasil nilai x, y, dan z.
+Selesai.
